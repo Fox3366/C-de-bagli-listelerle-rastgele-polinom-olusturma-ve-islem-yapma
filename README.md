@@ -24,7 +24,7 @@ Kodun amacı sade ve basittir, bağlı listeler konusunu geliştirmek için yap�
 Tüm bunları tek yönlü bağlı liste ile gerçekleştirir.
 
 
-English: 
+ENGLİSH: 
 
 Generating and Performing Operations on Random Polynomials Using Linked Lists in C
 
