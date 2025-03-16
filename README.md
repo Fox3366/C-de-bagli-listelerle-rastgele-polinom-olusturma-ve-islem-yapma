@@ -25,6 +25,7 @@ Tüm bunları tek yönlü bağlı liste ile gerçekleştirir.
 
 
 English: 
+
 Generating and Performing Operations on Random Polynomials Using Linked Lists in C
 
 This is an assignment for the second semester of the first year in Software Engineering.
